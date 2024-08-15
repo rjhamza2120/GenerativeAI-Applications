@@ -49,7 +49,7 @@ st.write("----------------------------------------------------------------------
 st.write("Your personalized diabetes diet guide—input your glucose levels and get tailored meal plans.")
 st.write("-----------------------------------------------------------------------------------------------------------")
 
-st.sidebar.image("F:\Aspire GEN AI\Module 5,6\Gluco\diet.jpg", use_column_width=True)
+st.sidebar.image("\diet.jpg", use_column_width=True)
 st.sidebar.header("Enter Your Details")
 st.markdown("""
         <style>
