@@ -1,0 +1,4 @@
+transformers==4.31.0
+gradio==3.23.0
+torch==2.0.1
+sentencepiece
